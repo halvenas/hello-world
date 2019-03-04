@@ -1,1 +1,1 @@
-Zawartość z polskimi znakami. #$%%
+Nowa zawartość z polskimi znakami. #$%%
